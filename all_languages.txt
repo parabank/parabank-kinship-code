@@ -489,9 +489,6 @@ fort1240;Fortsenal (Kiai);-15.45;166.93 ;;Tomas Ludvigson. Vara Kiai, a Kiai Wor
 lele1267;Lelepa;-17.60;168.20 ;;Sébastien Lacrampe. 2009. Possession in Lelepa, a language of Central Vanuatu. (MA thesis, Australian National University: 147pp.) ;20171108;http://glottolog.org/resource/reference/id/471059;Austronesian;;;lpa;
 mafe1237;Mafea (Mavea);-15.43;167.24 ;;Guérin, Valérie M. P. R. 2008. Discovering Mav̈ea: Grammar, Texts, and Lexicon. (Doctoral dissertation, University of Hawai'i at Mānoa). ;20171110;http://glottolog.org/resource/reference/id/85396;Austronesian;;;mkv;
 lewo1242;Lewo;-16.76;168.33 ;;Early, Robert. A grammar of Lewo, Vanuatu. Thesis, Australian National University, 1994. ;20171113;https://openresearch-repository.anu.edu.au/handle/1885/132959;Austronesian;;;lww;
-unua1237;Unua;-16.26;167.60 ;;Elizabeth Pearce. 2015. A grammar of Unua. (Pacific Linguistics, 647.) De Gruyter Mouton. 616pp. ;20171113;http://glottolog.org/resource/reference/id/400013;Austronesian;;;onu
-ende1235;Ende (Papua New Guinea);-9.09;142.53 ;;Ende Language Corpus. 2015-2017. For information or access contact Warama Kurupel (Limol, Papua New Guinea) or Kate Lindsey (klindsey@stanford.edu) ;20171113;;Pahoturi;;;kit
-namb1293;Nambo;-8.75;141.93 ;;Eri Kashima;20171113;;Morehead-Wasur
 bugi1244;Bugis;-4.47;119.97;;;
 tuka1248;Tukang Besi;-5.30994;123.57;;;
 abkh1244;Abkhaz;43.056218;41.15911;;;
